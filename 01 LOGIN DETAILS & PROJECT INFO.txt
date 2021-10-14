@@ -2,7 +2,7 @@
 
 **Database Name: shopci**
 
-**Developed by Rostom Ali**
+**Developed XYZ**
 
 **Recommended PHP Version 5.6.3, 7.4.12**
 

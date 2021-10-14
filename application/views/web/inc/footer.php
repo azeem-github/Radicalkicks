@@ -51,7 +51,9 @@
                 </div>
             </div>
         </div>
-      
+        <div class="copy_right">
+            <p><b><?php echo get_option('site_copyright');?></b></p>
+        </div>
     </div>
 </div>
 <script type="text/javascript">
